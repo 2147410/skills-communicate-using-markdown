@@ -1,0 +1,3 @@
+- [ ] go to gym
+- [x] dinner
+- [x] night walk 
